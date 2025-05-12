@@ -6,3 +6,4 @@ Notes and usage details for guardians.
 - fix a small wording issue
 - add a note about the defaults
 - fix a small wording issue
+- add a note about the defaults
